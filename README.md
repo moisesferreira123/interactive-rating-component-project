@@ -33,8 +33,8 @@ O desafio consistia em construir um Componente de Avaliação Interativo da mane
 
 ### Links
 
-- Solução URL: [URL da solução](https://github.com/moisesferreira123/interactive-rating-component-main)
-- Live Site URL: [Live site URL](https://moisesferreira123.github.io/faq-accordion-project/)
+- Solução URL: [URL da solução](https://github.com/moisesferreira123/interactive-rating-component-project)
+- Live Site URL: [Live site URL](https://moisesferreira123.github.io/interactive-rating-component-project/)
 
 
 ## Construído com
