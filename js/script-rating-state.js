@@ -19,6 +19,9 @@ document.addEventListener('click', (e) => {
   }
   if(el.classList.contains('submit-button-actived')){
     sessionStorage.setItem("rating", rating);
-    window.location.href = "../html/thank-you-state.html";
+    const basePath = window.location.origin.includes("github.io")
+    ? "/interactive-rating-component-project/html/"
+    : "../html/";
+    window.location.href = basePath + "thank-you-state.html";
   }
 });
